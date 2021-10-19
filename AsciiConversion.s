@@ -1,5 +1,3 @@
-@ Start of file AsciiConversion.s
-@
 @ A sequence of seven ASCII symbols, each in the range '0' . . . '9', can 
 @ represent an unsigned value in the range 0 . . . 9,999,999 in text form. 
 @ 
