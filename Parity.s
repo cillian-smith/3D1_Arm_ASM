@@ -1,7 +1,3 @@
-@ Start of file Parity.s
-@
-@ Copyright 2020 University of Dublin. All Rights Reserved.
-@
 @ Design and write an assembly language program that 
 @ will calculate the parity bit for a 7 bit value stored in r0. 
 @ 
@@ -67,5 +63,3 @@ start:
 stop:   B	stop
 	.data
 	.end
-@
-@ End of file Parity.s
